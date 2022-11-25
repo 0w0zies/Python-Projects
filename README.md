@@ -1,2 +1,2 @@
 # Python-Projects
-Feel free to modify, but please do not redistribute unless you are sending them to this page to download.
+Feel free to modify and share, but make sure to credit me.
